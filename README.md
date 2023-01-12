@@ -1,6 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=provodokkk&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### Technology stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
